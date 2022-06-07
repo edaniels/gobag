@@ -10,8 +10,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/starship-technologies/gobag/bread"
-	"github.com/starship-technologies/gobag/msgpiler"
+	"github.com/edaniels/gobag/bread"
+	"github.com/edaniels/gobag/msgpiler"
 
 	"github.com/pierrec/lz4"
 )

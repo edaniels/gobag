@@ -1,4 +1,4 @@
-module github.com/starship-technologies/gobag
+module github.com/edaniels/gobag
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect

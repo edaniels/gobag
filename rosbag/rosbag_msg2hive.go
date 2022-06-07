@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/starship-technologies/gobag/msgpiler"
+	"github.com/edaniels/gobag/msgpiler"
 	"go.uber.org/zap"
 )
 

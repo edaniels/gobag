@@ -7,7 +7,7 @@ import (
 
 	"github.com/klauspost/compress/gzip"
 
-	"github.com/starship-technologies/gobag/rosbag"
+	"github.com/edaniels/gobag/rosbag"
 )
 
 func dumpChunkInfo(filename string) error {
